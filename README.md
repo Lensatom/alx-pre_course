@@ -1,1 +1,1 @@
-My first readme
+A repository for my ongoing alx course.
